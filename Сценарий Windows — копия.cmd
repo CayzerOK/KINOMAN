@@ -1,2 +1,0 @@
-heroku deploy ckinoman
-PAUSE
