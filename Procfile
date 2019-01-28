@@ -1,1 +1,1 @@
-web: java -jar build/libs/KINMAN.jar
+web: java -jar build/libs/KINOMAN-0.0.1-SNAPSHOT.jar
